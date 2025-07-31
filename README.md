@@ -28,7 +28,5 @@ To help future data professionals and career explorers understand:
   - Choropleth + ridgeline chart (global salary distribution by experience)
   - Correlation matrix & decision tree (comprehensive factor analysis)
 
----
 
-## Dataset Sources
 
