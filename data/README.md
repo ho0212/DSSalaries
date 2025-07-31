@@ -7,7 +7,8 @@ This folder contains the data pipeline and structure for the R Shiny dashboard.
 | Folder | Description |
 |--------|-------------|
 | `raw/` | Contains the original datasets downloaded from Kaggle |
-| `processed/` | Contains the merged and processed dataset used in the dashboard (`Full_data.csv`) |
+| `processed/` | Contains the merged and processed dataset used in the dashboard |
+| `charts/` | Visual assets (GIFs, charts) shown in the UI |
 | `README.md` | You're reading it |
 
 ## Data Sources
